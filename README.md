@@ -73,7 +73,7 @@ MySql, Spring, entre otras. Me considero un desarrollador proactivo y autodidact
 <a href="mailto:dmedinao11@outlook.com?Subject=Interesado%20en%20contactarte" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
-<a href="www.linkedin.com/in/daniel-medina-114104224" target="_blank">
+<a href="https://www.linkedin.com/in/daniel-medina-114104224" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
