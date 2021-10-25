@@ -1,6 +1,16 @@
-![banner](https://raw.githubusercontent.com/dmedinao11/dmedinao11/assets/banner.jpg)
+![banner](https://raw.githubusercontent.com/dmedinao11/dmedinao11/main/assets/banner.jpg)
 
-  <!-- ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+<img src="https://raw.githubusercontent.com/dmedinao11/dmedinao11/main/assets/develop.gif" alt="side Image" align="right" width="300" height="auto" />
+
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+- 🔭 I’m currently working as a Software Developer in Bengaluru, India
+- 🌱 I’m currently learning Machine Learning and Big Data
+- 💬 Ask me about multiplayer FPS gaming, chess and Tintin comics
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: My name is an anagram of "I Play Data"
+
+  <!-- ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/main/assets/Hi.gif" width="29px">
   [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
