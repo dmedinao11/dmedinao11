@@ -56,13 +56,24 @@ MySql, Spring, entre otras. Me considero un desarrollador proactivo y autodidact
 
 ## **Proyectos**
 
+|Repositorio|Tecnologías|Ver| 
+|-----------|-----------|---|    
+|<a href="https://github.com/dmedinao11/countries-angular"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmedinao11&repo=countries-angular&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="200"/></a> | ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | [Ver en vivo](#https://dmedinao11.github.io/countries-angular/countries-angular#/countries) |
+|<a href="https://github.com/dmedinao11/countries-vanilla"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmedinao11&repo=countries-vanilla&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="200"/></a> | ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![WEBPACK](https://img.shields.io/badge/-WEBPACK-blue?style=for-the-badge) | [Ver en vivo](#https://dmedinao11.github.io/countries-vanilla/#/home) |
+|<a href="https://github.com/dmedinao11/url-shortening"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmedinao11&repo=url-shortening&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="200"/></a> | ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![STYLES](https://img.shields.io/badge/-STYLED%20COMPONENTS-pink?style=for-the-badge) | [Ver en vivo](https://dmedinao11.github.io/url-shortening/)|
+|<a href="https://github.com/dmedinao11/static-job-listing-react"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmedinao11&repo=static-job-listing-react&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="200"/></a>   | ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) | [Ver en vivo](https://dmedinao11.github.io/static-job-listing-react/) |
+|<a href="https://github.com/dmedinao11/rock-paper-scissors-react"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmedinao11&repo=rock-paper-scissors-react&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="200"/></a> | ![WEBPACK](https://img.shields.io/badge/-WEBPACK-blue?style=for-the-badge) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | [Ver en vivo](https://dmedinao11.github.io/rock-paper-scissors-react/) |
+
 ## **Contacto**
 
 <p align="center">
 <a href="https://twitter.com/dmedinao11" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="mailto:dmedinao11@outlook.com?Subject=Interesado%20en%20el%20curso" target="_blank">
+<a href="mailto:dmedinao11@outlook.com?Subject=Interesado%20en%20contactarte" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+<a href="www.linkedin.com/in/daniel-medina-114104224" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
