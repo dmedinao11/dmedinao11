@@ -1,38 +1,50 @@
 ![banner](https://raw.githubusercontent.com/dmedinao11/dmedinao11/main/assets/banner.jpg)
 
-<img src="https://raw.githubusercontent.com/dmedinao11/dmedinao11/main/assets/develop.gif" alt="side Image" align="right" width="300" height="auto" />
+<img src="https://webexitosa.com/wp-content/uploads/2020/11/programcacion-web.gif" alt="side Image" align="right" width="300" height="auto" style="margin-top: 2rem" />
 
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# **¡Hola a todos! Bienvenidos** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working as a Software Developer in Bengaluru, India
-- 🌱 I’m currently learning Machine Learning and Big Data
-- 💬 Ask me about multiplayer FPS gaming, chess and Tintin comics
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: My name is an anagram of "I Play Data"
+Mi nombre es Daniel Medina, un apasionado por la tecnología y la industria del software.
+En mi día a día como programador web trabajo con tecnologías como Angular, React, Express,
+MySql, Spring, entre otras. Me considero un desarrollador proactivo y autodidacta.
 
-  <!-- ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/main/assets/Hi.gif" width="29px">
-  [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
-  
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a> -->
+- 🔭 Actualmente trabajo como desarrollador fullstack freelance.
+- 🌱 Actualmente estoy aprendiendo Docker y JPA (Java Persistence Api)
+- 👯 En un futuro espero ser parte de un equipo diverso, construyendo las apps del futuro
 
-  <!-- - 🔭 I’m currently working as a Software Developer in Bengaluru, India
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about multiplayer FPS gaming, chess and Tintin comics
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data" -->
+## **¿Qué quieres mirar?**:
 
-<!--
-**dmedinao11/dmedinao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [👨🏽‍💻 Tecnologías con las que he trabajado](#tecnologías)
+- [🚀 Proyectos personales](#proyectos)
+- [📲 Contáctame](#Contacto)
 
-Here are some ideas to get you started:
+## **Tecnologías**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
+
+![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Bases de datos
+
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## **Proyectos**
+
+## **Contacto**
