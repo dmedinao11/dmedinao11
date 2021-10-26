@@ -15,7 +15,7 @@ MySql, Spring, entre otras. Me considero un desarrollador proactivo y autodidact
 ## **¿Qué quieres mirar?**:
 
 - [🔧 Tecnologías con las que he trabajado](#tecnologías)
-- [🔧 Tecnologías por aprender](#quiero%20aprender)
+- [🔧 Tecnologías por aprender](#quiero-aprender)
 - [📈 Estadísticas en GitHub](#estadísticas)
 - [🚀 Proyectos personales](#proyectos)
 - [📲 Contáctame](#Contacto)
