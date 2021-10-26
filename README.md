@@ -15,6 +15,7 @@ MySql, Spring, entre otras. Me considero un desarrollador proactivo y autodidact
 ## **¿Qué quieres mirar?**:
 
 - [🔧 Tecnologías con las que he trabajado](#tecnologías)
+- [🔧 Tecnologías por aprender](#quiero%20aprender)
 - [📈 Estadísticas en GitHub](#estadísticas)
 - [🚀 Proyectos personales](#proyectos)
 - [📲 Contáctame](#Contacto)
@@ -47,6 +48,15 @@ MySql, Spring, entre otras. Me considero un desarrollador proactivo y autodidact
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## **Quiero aprender**
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DJANGO](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![FLUTTER](	https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## **Estadísticas**
 
