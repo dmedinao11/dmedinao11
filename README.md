@@ -10,7 +10,7 @@ MySql, Spring, entre otras. Me considero un desarrollador proactivo y autodidact
 
 - 🔭 Actualmente trabajo como desarrollador fullstack freelance.
 - 🌱 Actualmente estoy aprendiendo Docker y JPA (Java Persistence Api)
-- 👯 En un futuro espero ser parte de un equipo diverso, construyendo las apps del futuro
+- 👯 En un futuro espero ser parte de un equipo diverso, construyendo apps que ayuden a la sociedad
 
 ## **¿Qué quieres mirar?**:
 
